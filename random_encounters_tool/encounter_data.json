@@ -1,0 +1,37 @@
+{
+  "encounter_list" :
+  [
+    "The party comes across an orc stronghold. The orc patrol catches them, is friendly but asks them to steer clear of the area",
+    "The party sees a large bear up ahead, if they let it pass, the bear continues on without incident. Otherwise it protects itself while trying to run.",
+    "The party finds an adventurers kit, there are some expired rations, a short sword, a handful of coins, some arrows and a scroll of fireball. There's a scorch mark nearby.",
+    "The party sees two giants of different type fighting off in the distance. They are far enough off that the party has no issue avoiding them.",
+    "The party finds an active bandit raid in progress on a trading cart. If the party assists the traders they are paid a fair sum, and asked to assist in fixing the cart and accompany the merchant to the next town.",
+    "A wandering golem of any kind that is just walking. No matter what is in its direct path, it just keeps walking in one direction",
+    "A traveling preacher who is basically a jehovah’s witness for whatever god they worship",
+    "A holy mystic sits by the side of the road with a begging bowl. If the players donate some gold, he may bless them.",
+    "A dragon flies overhead, too high up to identify and too fast to track.",
+    "A holy shrine to some very minor god or goddess is untended. On it lie some offerings - a handful of coins, some flowers, a piece of fruit.",
+    "A small army of orc mercenaries is camped outside of town. They're working for the local ruler, but if they don't see battle soon they may get bored and start pillaging the countryside in search of something to do.",
+    "A drunk sleeps in a barrel by the side of the road.",
+    "A traveler from a distant land is visiting this one and writing down his experiences in a book",
+    "In the open fields the party encounters a group of migrating large herbivores they stay calm if the party doesn't get too close",
+    "Child with a turtle named Oliver, which has fallen down a ravine",
+    "A talking hat that wishes to be reunited with its owner, Fizban the old wizard. It was blown off the wizards head from the top of a tall tower nearby.",
+    "In a cloud of fog, you find a goblin camp with a Minotaur in a cage on the side. If freed, it slaughters the goblins and leaves.",
+    "Vampire Ghandi. Wouldn’t hurt a fly, accepts blood donations.",
+    "Ogre named Rolok with a sentient sword named Dia that talks him out of attacking.",
+    "A group of soldiers demanding a toll to use a bridge, which is a shortcut. If you don't use it, roll random encounter again.",
+    "A magic ring with a note that says 'do not touch!'' The wearer is forced to punch whoever is closest, dealing 1d4+str bludgeoning damage",
+    "River crossing with broken bridge, nearby inn taking up collection to get it fixed. If you donate, a kind young man offers to ferry you across. If not, detour and reroll random encounter.",
+    "Cranky old halfling named Old Dorrow with a heavy crossbow, orders you off his lawn from the window of his hut which may or may not be on the back of a giant crab. If you detour, roll another encounter",
+    "Ranchers need help getting a herd of cattle into their pens. Skill check with animal handling and athletics.",
+    "Wake up after sleeping and see two of your weapon/equipment/ect. One is a mimic.",
+    "A powerful storm blows over, forcing the party to find shelter or take a level of exhaustion",
+    "A cleric leading a large group of refugees from a war/natural disaster/plague. Stopped for a few days, willing to trade for aid or information",
+    "A farmer returning from town with his four adopted sons.  None of the children resemble the farmer in anyway. The children resent the farmer for being forced into the farming life.  They tell lies of being kidnapped and abused in hopes a group of heroes will take them on exciting adventures",
+    "A farmer returning from town with his three daughters is seen on the side of the road huddled beneath their damaged cart.  The family has been attacked by a swarm of stirges as the evidenced by the presence of a stirge, bludgeoned with a shovel. The family asks the party to escort them the remainder of the way home.  Their home is an hours walk out of the way for the party and an hour is needed to fix the cart",
+    "A young girl is found sitting alone on the side of the road.  Barefoot and hungry, she wishes to stick with the party until the next town where she can find safety.  Her intentions are to wait until a second adventuring party of equal or greater skill pass by and beseech them to save her.  She will say to them that she has been kidnapped by the players and that they have stolen her gold. Unless persuaded otherwise, the adventurers believe the girl’s story. "
+
+
+  ]
+}
