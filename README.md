@@ -1,16 +1,15 @@
 # dm tools
 
 ### virtual env on windows:
-`pip install virtualenv`
-` virtualenv venv `
-(my execution policy is restricted to not let scripts run) set execution policy to unrestricted to run the activation script - then change back afterwards)
-`Set-ExecutionPolicy Unrestricted`
-` .\venv\Scripts\activate `
-`Set-ExecutionPolicy  Default`
+- `pip install virtualenv`
+- ` virtualenv venv `
+- (my execution policy is restricted to not let scripts run) set execution policy to unrestricted to run the activation script - then change back afterwards)
+  - `Set-ExecutionPolicy Unrestricted`
+  - ` .\venv\Scripts\activate `
+  - `Set-ExecutionPolicy  Default`
 
-now you have a virtual env and need to install dependencies
-
-`pip install -r .\requirements.txt`
+- now you have a virtual env and need to install dependencies
+  - `pip install -r .\requirements.txt`
 
 ### Running the tool
 
